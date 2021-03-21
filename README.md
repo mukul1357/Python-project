@@ -1,4 +1,4 @@
-# Python-project
+# Python-project Group-3 Team-3
 The name of the game is "Robot War". In this project we have 5 team members Mukul, Karthik, Rakshit, Vamshi and Jahnavi. It consists of a starting window which have game instructions, cntrols, Start game and Exit game option.
 If we press the start game then we enter the game main game. Our main player name is chitti and chitti is fighting with robot army which is sent by Dr. bora.
 Chitti can run, jump and fire bullets. For Jumping the command is UP_KEY and J_KEY. For Bullet firing the command is B_kEY and bullet will take some time for reload. For running in right the command is RIGHT_KEY and for running in left the command is LEFT_KEY.
