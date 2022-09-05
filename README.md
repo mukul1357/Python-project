@@ -8,3 +8,4 @@ There are also some random fire balls which can reduce health of chitti by 25%.
 When health becomes 0 then chitti will die and he will also die immediately after touching enemy.
 Dr bora will appear when score reach to 9999 and if chitti touches dr bora, Chitti wins the game.
 There are also some sound effects for killing, bullet-firing, jumping, winning and losing.
+Run main.py to start the game
